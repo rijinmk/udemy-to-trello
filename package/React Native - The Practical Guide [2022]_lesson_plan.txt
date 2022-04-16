@@ -1,0 +1,719 @@
+
+⏱  Lesson plan to finish 591 videos: 
+------------------------------------
+One hour a day, 98 days
+Two hours a day, 49 days
+Three hours a day, 32 days
+Four hours a day, 24 days
+Five hours a day, 19 days
+Six hours a day, 16 days
+Seven hours a day, 14 days
+
+
+📋  Each section:
+------------------------------------
+[SECTION 1] [48min] [10 lecture] Getting Started 
+[SECTION 2] [2hr 44min] [27 lecture] React Native Basics [COURSE GOALS APP] 
+[SECTION 3] [15min] [6 lecture] Debugging React Native Apps(Introduction) 
+[SECTION 4] [3hr 51min] [34 lecture] Diving Deeper into Components, Layouts &Styling - Building a Mini-Game App 
+[SECTION 5] [1hr] [11 lecture] Building Adaptive User Interfaces (Adapt toPlatform & Device Sizes) 
+[SECTION 6] [3hr 16min] [24 lecture] React Native Navigation with React Navigation[MEALS APP] 
+[SECTION 7] [48min] [10 lecture] App-wide State Management with Redux &Context API 
+[SECTION 8] [2hr 40min] [22 lecture] Time To Practice - The Expense TrackerApp 
+[SECTION 9] [1hr 24min] [14 lecture] Handling User Input 
+[SECTION 10] [1hr 8min] [11 lecture] Sending Http Requests 
+[SECTION 11] [1hr 28min] [17 lecture] User Authentication 
+[SECTION 12] [4hr 2min] [33 lecture] Using Native Device Features (Camera,Location & More) 
+[SECTION 13] [49min] [10 lecture] Building React Native Apps Without Expo 
+[SECTION 14] [1hr 11min] [11 lecture] Publishing React Native Apps 
+[SECTION 15] [1min] [1 lecture] Course Roundup 
+[SECTION 16] [9min] [2 lecture] About the Course Update 
+[SECTION 17] [1min] [1 lecture] Push Notifications 
+[SECTION 18] [1hr 12min] [18 lecture] Getting Started [LEGACY] 
+[SECTION 19] [2hr] [24 lecture] Diving into the Basics [LEGACY] 
+[SECTION 20] [32min] [10 lecture] Debugging React Native Apps [LEGACY] 
+[SECTION 21] [3hr 49min] [37 lecture] Components, Styling, Layouts - Building RealApps [LEGACY] 
+[SECTION 22] [1hr 16min] [19 lecture] Responsive & Adaptive User Interfaces andApps [LEGACY] 
+[SECTION 23] [4hr 10min] [42 lecture] Navigation with React Navigation[LEGACY] 
+[SECTION 24] [1hr 8min] [13 lecture] State Management & Redux [LEGACY] 
+[SECTION 25] [4hr 19min] [28 lecture] Time to Practice [LEGACY] 
+[SECTION 26] [1hr 14min] [10 lecture] Handling User Input [LEGACY] 
+[SECTION 27] [1hr 18min] [15 lecture] Http Requests & Adding a Web Server +Database [LEGACY] 
+[SECTION 28] [1hr 49min] [16 lecture] User Authentication [LEGACY] 
+[SECTION 29] [3hr] [30 lecture] Native Device Features (Camera, Maps,Location, SQLite, ...) [LEGACY] 
+[SECTION 30] [53min] [10 lecture] Building Apps Without Expo [LEGACY] 
+[SECTION 31] [1hr 11min] [11 lecture] Publishing React Native Apps [LEGACY] 
+[SECTION 32] [1hr 26min] [15 lecture] Updating to React Navigation 5+[LEGACY] 
+[SECTION 33] [1hr 29min] [18 lecture] Push Notifications [LEGACY] 
+[SECTION 34] [4min] [1 lecture] Course Roundup & Next Steps[LEGACY] 
+[SECTION 35] [50min] [14 lecture] Bonus: JavaScript Refresher 
+[SECTION 36] [1hr 6min] [15 lecture] Bonus: React.js Refresher 
+[SECTION 37] [1min] [1 lecture] Bonus 
+
+📋  Lessons in each section:
+------------------------------------
+🔸 [SECTION 1] [48min] [10 lecture] Getting Started 
+Welcome To This Course & WhatTo Expect!Preview 01:05
+What Is React Native?Preview 03:27
+A Glance Under The Hood Of ReactNativePreview 05:05
+Creating React Native Projects:Expo CLI vs React Native CLIPreview 05:56
+Creating a New React NativeProjectPreview 05:49
+Analyzing The Created ProjectPreview 05:15
+Running Our First App On A RealDevice!Preview 04:20
+Setting Up A Local DevelopmentEnvironmentPreview 09:26
+About This CoursePreview 06:55
+Course Resources, Code Snapshots& How To Use 00:19
+
+🔸 [SECTION 2] [2hr 44min] [27 lecture] React Native Basics [COURSE GOALS APP] 
+Module Introduction 01:44
+Exploring Core Components &Component Styling 07:52
+Working With Core Components 07:00
+Styling React Native Apps 10:13
+React Native: Core Components,Styling & Colors - MoreInformation 00:34
+Exploring Layouts & Flexbox 03:19
+React Native & Flexbox 02:31
+Using Flexbox To Create Layouts 05:08
+Flexbox - A Deep Dive 12:19
+Improving The Layout 07:12
+Handling Events 07:29
+Managing A List Of Course Goals (inour Demo App) 07:10
+iOS & Android StylingDifferences 08:50
+Making Content Scrollable withScrollView 06:15
+Optimizing Lists with FlatList 13:41
+Splitting Components Into SmallerComponents 05:11
+Utilizing Props 02:33
+Working on the "Goal Input"Component 09:40
+Handling Taps with the PressableComponent 03:34
+Making Items Deletable & UsingIDs 05:17
+Adding an Android Ripple Effect &an iOS Alternative 04:52
+Adding a Modal Screen 06:57
+Styling the Modal Overlay 05:41
+Opening & Closing the Modal 02:30
+Working with Images & ChangingColors 06:04
+App Finishing Touches 07:15
+Module Summary 03:32
+
+🔸 [SECTION 3] [15min] [6 lecture] Debugging React Native Apps(Introduction) 
+Module Introduction 01:17
+Handling Errors 04:37
+Logging to the Console 01:52
+Debugging JavaScript Remotely 03:05
+Using the React DevTools 03:27
+Using the Documentation 00:34
+
+🔸 [SECTION 4] [3hr 51min] [34 lecture] Diving Deeper into Components, Layouts &Styling - Building a Mini-Game App 
+Module Introduction & What We'llBuild 02:06
+Starting Setup & Analyzing theTarget App 03:03
+Setting Up our ScreenComponents 05:39
+Creating Custom Buttons 06:58
+Styling for Android & iOS 11:16
+Styling the "Number Input"Element 06:52
+Configuring the TextInput Field 03:21
+Adding Visual Feedback to theButtons 15:46
+Improving the Buttons 07:38
+Coloring the Components & TheOverall App 03:19
+Adding a Linear Gradient 04:02
+Adding a Background Image 07:03
+Getting Started with the GameLogic 07:10
+Handling User Input & Showing anAlert Dialog 07:30
+Switching ScreensProgrammatically 07:11
+Starting Work on the GameScreen 04:45
+Respecting Device Screen Restrictionswith the SafeAreaView 03:06
+Creating a Title Component 04:37
+Managing Colors Globally 06:53
+Creating, Using & DisplayingRandom Numbers 12:43
+Adding Game Control Buttons ("+"& "-") to the App 15:27
+Checking for "Game Over" 11:12
+Improving the Game ScreenVisuals 11:40
+Using "Cascading Styles" 05:45
+Working with Icons (ButtonIcons) 04:08
+Adding & Using Custom Fonts withReact Native Apps 07:03
+Adding a (Foreground) Image 09:01
+Using & Styling Nested Text 04:52
+Adding Logic to (Re-)Start Games& Displaying a SummaryScreen 06:58
+Logging Game Rounds 05:51
+Outputting Log Data withFlatList 02:49
+Styling the Game Round Logs 08:10
+Finishing Touches 04:33
+Module Summary 02:56
+
+🔸 [SECTION 5] [1hr] [11 lecture] Building Adaptive User Interfaces (Adapt toPlatform & Device Sizes) 
+Module Introduction 04:05
+Setting Dynamic Widths 04:29
+Introducing the Dimensions API 06:39
+Adjusting Image Sizes with theDimensions API 04:04
+Understanding Screen OrientationProblems 03:16
+Setting Sizes Dynamically (fordifferent Orientations) 07:55
+Managing Screen Content withKeyboardAvoidingView 05:49
+Improving the Landscape Mode UI 07:54
+Further Improvements withuseWindowDimensions 04:35
+Writing Platform-specific Code withthe Platform API 08:59
+Styling the Status Bar 02:08
+
+🔸 [SECTION 6] [3hr 16min] [24 lecture] React Native Navigation with React Navigation[MEALS APP] 
+Module Introduction 01:28
+What Is Navigation? 04:21
+Getting Started with the App &Outputting Meal Categories 09:31
+Displaying Items in a Grid 14:28
+Getting Started with the ReactNavigation Package 09:44
+Implementing Navigation Between TwoScreens 08:30
+Setting the Default Screen 00:33
+Understanding the useNavigationHook 03:34
+Working with Route Parameters To PassData Between Screens 06:36
+Displaying Meals 07:51
+Adding Images & Styling 17:11
+Styling Screen Headers &Backgrounds 07:59
+Setting Navigation OptionsDynamically 09:04
+Adding & Configuring the MealDetails Screen 08:57
+Outputting Content in the Meal DetailScreen 09:23
+Finishing the Meal DetailScreen 18:57
+Adding Header Buttons 06:55
+Adding an Icon Button to aHeader 04:50
+Adding Drawer Navigation &Creating a Drawer 09:31
+Configuring the Drawer Navigator& The Drawer 10:09
+Adding, Configuring & UsingBottom Tabs 06:29
+Nesting Navigators 13:04
+Bottom Tabs & App FinishingTouches 03:52
+Module Summary 02:43
+
+🔸 [SECTION 7] [48min] [10 lecture] App-wide State Management with Redux &Context API 
+Module Introduction 03:04
+Getting Started with React's ContextAPI 05:22
+Managing App-wide State withContext 04:59
+Using the Created Context withuseContext 05:11
+Managing Favorite Meals with theContext API 09:39
+Getting Started with Redux &Redux Toolkit 04:45
+Working with Redux Slices 07:02
+Managing Redux State &Dispatching Actions 05:13
+Using Redux State in Components 01:45
+Module Summary 01:15
+
+🔸 [SECTION 8] [2hr 40min] [22 lecture] Time To Practice - The Expense TrackerApp 
+Module Introduction & What We'llBuild 02:21
+The Starting Setup 06:17
+Adding Navigation (with ReactNavigation) & ConfiguringNavigation 08:28
+Adding Global Colors & EditingNavigation Configuration 10:03
+Creating Key App Components toDisplay Expenses 06:17
+Continuing Work on theExpense-related Components 06:48
+Adding Dummy Expense Data 05:37
+Outputting a List of Expenses 04:44
+Improving App Layout &Styling 07:50
+Working on Expense List Items 13:24
+Formatting Dates 04:41
+Adding a Header Button & MakingExpense Items Tappable 11:32
+Navigating Programmatically BetweenScreens 05:16
+Styling The Expense ManagementScreen 03:06
+Supporting Different Editing Modes& Using Route Parameters 07:00
+Adding a "Delete" Button 05:34
+Adding Custom Buttons 09:40
+Closing A ModalProgrammatically 03:21
+Managing App-wide State WithContext 18:17
+Using Context From InsideComponents 08:18
+Deleting & UpdatingExpenses 06:32
+Finishing Touches 04:25
+
+🔸 [SECTION 9] [1hr 24min] [14 lecture] Handling User Input 
+Module Introduction 01:26
+Building a Custom InputComponent 08:34
+Creating an Overall Form 05:57
+Configuring the Form InputElements 04:08
+Adding Styling 07:40
+Setting the Form Layout 06:41
+Handling User Input in a GenericWay 09:56
+Managing Form State &Submission 04:54
+Working with Entered Data 05:20
+Setting & Using DefaultValues 07:08
+Adding Validation 06:38
+Providing Visual ValidationFeedback 09:18
+Adding Error Styling 04:54
+Module Summary 01:41
+
+🔸 [SECTION 10] [1hr 8min] [11 lecture] Sending Http Requests 
+Module Introduction 02:22
+Backend Setup (Firebase) 03:29
+Installing Axios 02:12
+Sending POST Http Requests 06:34
+Fetching Backend Data (GETRequests) 09:25
+Transforming & Using FetchedData 08:19
+Using Response Data from POSTRequests 05:43
+Updating & Deleting Backend Data(UPDATE & DELETE Requests) 07:50
+Managing the Loading State 08:57
+Handling Request Errors 12:02
+Module Summary 00:58
+
+🔸 [SECTION 11] [1hr 28min] [17 lecture] User Authentication 
+Module Introduction 01:59
+Demo App Walkthrough 03:56
+How Does Authentication Work? 02:58
+Backend Setup 05:35
+Controlling Signup & LoginScreens 04:39
+Sending Authentication Requests tothe Backend 05:19
+Creating New Users 05:39
+Logging Users In 06:30
+Authentication Error Handling 03:49
+Storing & Managing the UserAuthentication State (withContext) 07:13
+Extracting the AuthenticationToken 04:16
+Protecting Screens 06:57
+Adding a Logout Functionality 03:38
+Accessing Protected Resources 10:17
+Storing Auth Tokens on the Device& Logging Users InAutomatically 11:46
+A Note About Token Expiration 01:34
+Module Summary 02:12
+
+🔸 [SECTION 12] [4hr 2min] [33 lecture] Using Native Device Features (Camera,Location & More) 
+Module Introduction 02:37
+Adding a "Favorite Places" List 08:54
+Editing the Favorite PlaceItems 07:59
+Adding an "Add Place" Screen +Navigation 06:34
+Adding a Header Button 07:17
+Global Colors & Styling 05:03
+Getting Started with a CustomForm 05:59
+Adding & Configuring the CameraPackage (for Native CameraAccess) 06:19
+Taking Photos on Android 06:08
+Taking Photos on iOS + ManagingPermissions 08:28
+Showing an Image Preview 06:41
+Creating a Custom Button 06:00
+Getting Started with the LocationPicker 05:33
+Locating Users 09:06
+Adding a Location Preview Map 12:25
+Adding an Interactive Map (GoogleMaps & Apple Maps) 08:32
+Allowing Map Interaction & AddingMarkers 05:10
+Confirming Picked Locations 07:38
+Previewing Picked Locations 09:15
+Adding a Form Submit Button 04:44
+Managing Location & Image Statein the Form 09:30
+Converting Picked Locations toHuman-Readable Addresses 09:45
+Passing Entered Data to the"AllPlaces" Screen 06:00
+Outputting a List Of Places 04:39
+Styling Place Items 06:29
+SQLite: Getting Started &Initialization 16:11
+Preparing Code to Insert Data intothe SQLite Database 07:09
+Inserting Places into theDatabase 03:17
+Fetching Places from theDatabase 09:35
+Adding the Place Details Screen 09:15
+Fetching Place Detail Data from theDatabase 08:36
+Showing a Readonly Map 09:09
+Module Summary 02:28
+
+🔸 [SECTION 13] [49min] [10 lecture] Building React Native Apps Without Expo 
+Module Introduction 01:30
+How Exactly Does Expo Work? 04:20
+Expo Alternatives 05:33
+Setting Up Our System 04:43
+Using Expo's Bare Workflow 07:48
+Using Native Device Features with theBare Workflow 07:26
+Ejecting To The Bare Workflow 05:41
+Creating Projects with the ReactNative CLI (no Expo) 07:11
+Non-Expo Apps & Native DeviceFeatures 03:27
+Module Summary 01:50
+
+🔸 [SECTION 14] [1hr 11min] [11 lecture] Publishing React Native Apps 
+Module Introduction 01:36
+Publishing Apps: An Overview 04:05
+Key Configuration Items &Considerations 02:30
+Configuring App Names &Versions 08:16
+A Quick Note About EnvironmentVariables 01:51
+Adding Icons & A SplashScreen 03:40
+Building Expo Apps with EAS 14:31
+EAS for iOS (even on WindowsDevices) 16:46
+Building for iOS Without Expo 10:23
+Building for Android WithoutExpo 07:21
+Configuring Android Apps 00:24
+
+🔸 [SECTION 15] [1min] [1 lecture] Course Roundup 
+Course Roundup 00:39
+
+🔸 [SECTION 16] [9min] [2 lecture] About the Course Update 
+This Course Was Updated | UpdateInformation 07:16
+Course Update Information &FAQs 01:57
+
+🔸 [SECTION 17] [1min] [1 lecture] Push Notifications 
+Coming Soon! 00:11
+
+🔸 [SECTION 18] [1hr 12min] [18 lecture] Getting Started [LEGACY] 
+What does LEGACY mean? 00:17
+Welcome!Preview 03:30
+What is React Native?Preview 04:22
+Join our Online LearningCommunity 00:23
+How React Native WorksPreview 06:15
+Expo vs React Native CLIPreview 06:06
+Node.js Download 00:15
+Creating Our First React NativeAppPreview 07:47
+Working on Our First AppPreview 09:42
+React Native Apps Are HardWork!Preview 02:53
+React Native AlternativesPreview 04:51
+Course RequirementsPreview 01:26
+Course Requirement Refreshers 00:19
+Running the App on an AndroidEmulatorPreview 08:36
+Running the App on an iOSSimulatorPreview 03:15
+Course OutlinePreview 07:41
+How to get the Most out of ThisCoursePreview 03:53
+Useful Resources & Links 00:02
+
+🔸 [SECTION 19] [2hr] [24 lecture] Diving into the Basics [LEGACY] 
+Module Introduction 00:33
+How to work with React NativeComponents 02:45
+Setting Up A New Project 03:04
+Planning the App 01:42
+Working with Core Components 04:56
+Getting Started with Styles 07:52
+Flexbox & Layouts (Intro) 03:54
+React Native Flexbox Deep Dive 12:19
+Inline Styles & StyleSheetObjects 05:12
+Components, Styles, Layouts8 questionsWorking with State & Events 09:44
+Outputting a List of Items 03:51
+Styling List Items 03:21
+Making it Scrollable withScrollView! 03:48
+A Better List: FlatList 07:20
+More Components & Lists3 questionsSplitting the App IntoComponents 04:34
+Passing Data Between Components 06:48
+Working with TouchableComponents 08:39
+Deleting Items 04:57
+Adding a Modal Overlay 06:06
+More Flexbox Styling 03:49
+Closing the Modal & ClearingInput 06:45
+Finishing the Modal Styling 05:08
+Wrap Up 02:29
+Useful Resources & Links 00:08
+
+🔸 [SECTION 20] [32min] [10 lecture] Debugging React Native Apps [LEGACY] 
+Module Introduction 00:32
+What To Debug & How ToDebug? 06:18
+Running the App on a Real Device& Debugging 00:33
+Handling Error Messages 05:26
+Understanding Code Flow withconsole.log() 04:06
+Using the Remote Debugger &Breakpoints 04:03
+Working with the Device DevToolsOverlay 02:17
+Debugging the UI & Using ReactNative Debugger 07:25
+Wrap Up 01:02
+Useful Resources & Links 00:08
+
+🔸 [SECTION 21] [3hr 49min] [37 lecture] Components, Styling, Layouts - Building RealApps [LEGACY] 
+Module Introduction 02:33
+Setup & App Planning 03:25
+Adding a Custom HeaderComponent 07:54
+Adding a Screen Component 05:32
+Working on the Layout 07:03
+Styling a View as a "Card" Container(with Drop Shadows & RoundedCorners) 07:03
+React Native Styling vs CSSStyling 00:46
+Extracting a Card Component(Presentational Component) 05:57
+Components & Styling4 questionsColor Theming with Constants 06:03
+Configuring & Styling aTextInput 10:19
+Cleaning User Input & Controllingthe Soft Keyboard 05:23
+Resetting & Confirming UserInput 08:28
+Configuring Components2 questionsShowing an Alert 02:50
+Time to Finish the "ConfirmationBox" 07:44
+Adding Random Number Generation 06:34
+Switching Between Multiple"Screens" 10:41
+Adding Game Features: Hints &Validation 11:02
+Checking the "Win" Condition withuseEffect() 10:11
+Finishing the Game Logic 05:17
+Adding AppLoading 00:12
+Adding Custom Fonts 09:50
+Installing expo-font 00:43
+A Synthetic Style "Cascade": CustomWrapper Components & GlobalStyles 10:34
+Adding Local Images 04:56
+Styling Images 06:07
+Working with Network (Web)Images 02:51
+A Closer Look at the "Text" Component(and what you can do with it) 09:09
+<View> vs <Text> - ASummary 01:30
+Building a Custom ButtonComponent 11:41
+Adding Icons 04:43
+Exploring UI Libraries 02:58
+Managing Past Guesses as a List 07:56
+Styling List Items & Lists 08:54
+ScrollView & Flexbox (Yes, thatworks!) 07:20
+Using FlatList Instead ofScrollView 09:50
+Wrap Up 05:14
+Useful Resources & Links 00:05
+
+🔸 [SECTION 22] [1hr 16min] [19 lecture] Responsive & Adaptive User Interfaces andApps [LEGACY] 
+Module Introduction 02:26
+Finding ImprovementOpportunities 03:51
+Working with More Flexible StylingRules 03:08
+Introducing the Dimensions API 03:50
+Using Dimensions in "if" Checks 07:51
+Calculating Sizes Dynamically 05:22
+Problems with Different DeviceOrientations 03:11
+Controlling Orientation & Usingthe KeyboardAvoidingView 03:49
+Listening to OrientationChanges 05:31
+Rendering Different Layouts 07:09
+Fixing the GameOver Screen 02:09
+Updating All Code to UpdateDynamically 01:33
+The Dimensions API & ResponsiveUIs3 questionsExpo's ScreenOrientation API 03:42
+Introducing the Platform API 04:25
+Working with Platform.select() andPlatform in "if" Checks 07:04
+Using Platform-specific CodeFiles 03:32
+The Platform API4 questionsUsing the SafeAreaView 05:55
+Wrap Up 01:37
+Useful Resources & Links 00:08
+
+🔸 [SECTION 23] [4hr 10min] [42 lecture] Navigation with React Navigation[LEGACY] 
+Module Introduction 01:14
+Planning the App 05:46
+Adding Screens 06:31
+Adding AppLoading 00:18
+Adding Fonts 03:54
+React Navigation Docs 00:07
+Installing React Navigation &Adding Navigation to the App 06:44
+MUST READ: Installing DifferentNavigators 00:28
+Creating a StackNavigator 10:38
+React Navigation & CodeAttachments 00:46
+Navigating Between Screens 06:50
+Alternative Navigation Syntax 00:16
+Navigation Basics2 questionsNavigation to the "Meal Details"Screen 01:10
+Pushing, Popping &Replacing 07:35
+Outputting a Grid of Categories 07:55
+Configuring the Header withNavigation Options 07:58
+Passing & Reading Params UponNavigation 04:29
+Setting Dynamic NavigationOptions 05:47
+Default Navigation Options &Config 10:09
+Navigation Params &Configuration3 questionsGrid Styling & SomeRefactoring 12:15
+Adding Meal Models & Data 03:46
+Loading Meals for Categories 04:34
+Rendering a Meals List 18:04
+Passing Data to the Meal DetailScreen 05:20
+Header Buttons: Using the CorrectVersion 00:11
+Adding Header Buttons 11:22
+Fixing the Shadows 02:51
+Adding Tabs-based Navigation 06:10
+Setting Icons and ConfiguringTabs 08:08
+navigationOptions inside of aNavigator 00:39
+Adding MaterialBottomTabs 09:24
+Adding a Favorites Stack 13:29
+Adding a Menu Button & DrawerNavigation 10:05
+Configuring the Drawer 06:33
+More Navigation Config &Styling 06:28
+Adding a DefaultText Component 03:08
+Adding the MealDetail ScreenContent 11:17
+Time for the "Filters" ScreenContent! 11:57
+Passing Data Between Component &Navigation Options (Header) 13:07
+[React Refresher] useEffect() &useCallback() 02:00
+Wrap Up 00:46
+Useful Resources & Links 00:07
+
+🔸 [SECTION 24] [1hr 8min] [13 lecture] State Management & Redux [LEGACY] 
+Module Introduction 01:04
+What is State & What isRedux? 04:08
+Redux & Store Setup 10:58
+Selecting State Slices 08:30
+Redux Data & NavigationOptions 05:04
+Dispatching Actions & ReducerLogic 13:55
+Switching the Favorites Icon 07:09
+Rendering a Fallback Text 02:43
+Adding Filtering Logic 06:16
+Dispatching Filter Actions 06:08
+Debugging Redux in React NativeApps 00:26
+Wrap Up 01:33
+Useful Resources & Links 00:08
+
+🔸 [SECTION 25] [4hr 19min] [28 lecture] Time to Practice [LEGACY] 
+Module Introduction 01:34
+Planning the App 10:42
+Creating the Basic ProjectSetup 06:08
+The Products Overview Screen 09:49
+Setting Up a Navigator 10:41
+Styling the Product Items 19:15
+Adding Touchable Components 12:26
+Working on the Product DetailsScreen 05:56
+Using Custom Fonts 05:10
+Adding Items to the Cart 21:08
+Implementing Header Buttons 18:29
+Outputting Cart Items 11:48
+Adding Logic to Delete Items 10:33
+Adding Redux Logic for Orders 09:09
+SideDrawer & The OrdersScreen 13:07
+Clearing the Cart 01:43
+Styling Order Items 12:43
+Making the "Show Details" ButtonWork 08:55
+Building the "User Products"Screen 09:36
+Reorganizing the ProductItemComponent 05:29
+Deleting Items 07:57
+Adding Basic Editing & NavigationLogic 06:37
+Handling User Input 12:05
+Using Params to Submit UserInput 02:16
+Dispatching Actions for Creating& Updating 15:34
+Time to Improve the App! 09:22
+Wrap Up 01:12
+Useful Resources & Links 00:05
+
+🔸 [SECTION 26] [1hr 14min] [10 lecture] Handling User Input [LEGACY] 
+Module Introduction 00:59
+Configuring TextInputs 08:21
+Adding Basic Validation 05:45
+Getting Started withuseReducer() 12:12
+Finishing the Merged Form & InputManagement 12:59
+Moving Input Logic Into A SeparateComponent 11:18
+Connecting Input Component &Form 14:47
+Tweaking Styles & Handling theSoft Keyboard 05:28
+Alternatives & Wrap Up 02:06
+Useful Resources & Links 00:07
+
+🔸 [SECTION 27] [1hr 18min] [15 lecture] Http Requests & Adding a Web Server +Database [LEGACY] 
+Module Introduction 01:03
+Setup & How To SendRequests 03:27
+Installing Redux Thunk 02:03
+Storing Products on a Server 09:05
+Fetching Products from theServer 07:53
+Displaying a Loading Spinner &Handling Errors 13:03
+Setting Up a NavigationListener 05:15
+Updating & DeletingProducts 04:47
+Handling Additional Errors 09:31
+Storing Orders 04:34
+Displaying an ActivityIndicator 03:12
+Fetching Stored Orders 08:15
+Adding "Pull to Refresh" 04:12
+Wrap Up 01:07
+Useful Resources & Links 00:07
+
+🔸 [SECTION 28] [1hr 49min] [16 lecture] User Authentication [LEGACY] 
+Module Introduction 00:44
+How Authentication Works 03:36
+Implementing a Basic LoginScreen 14:57
+Adding User Signup 12:44
+Logging Users In 06:26
+Managing the Loading State &Errors 09:01
+Using the Token 11:04
+Mapping Orders to Users 07:42
+Improved Mapping (Scoping) 01:14
+Using AsyncStorage 00:16
+Implementing "Auto Login" 16:50
+Adding Logout 07:20
+Implementing "Auto Logout" 15:26
+Auto-Logout & Android(Warning) 00:26
+Wrap Up 01:03
+Useful Resources & Links 00:07
+
+🔸 [SECTION 29] [3hr] [30 lecture] Native Device Features (Camera, Maps,Location, SQLite, ...) [LEGACY] 
+Module Introduction 01:13
+Planning the App 04:00
+Navigation Setup in NextLecture 00:17
+Screen & Navigation Setup 13:27
+Getting Started with the Form 05:36
+Redux & Adding Places 07:29
+Outputting a List of Places 06:36
+Accessing the Device Camera 17:26
+Configuring the Camera Access 05:10
+Using the Picked Image 04:59
+Storing the Image on theFilesystem 08:29
+Changed SQLite Import 00:09
+Diving into SQLite for Permanent DataStorage 10:24
+Storing Data in the LocalDatabase 07:53
+Fetching Data from the LocalDatabase 07:00
+Getting the User Location 11:00
+Showing a Map Preview of theLocation 13:24
+More on Environment Variables 00:36
+Displaying an Interactive Map 08:31
+Adding a Marker 05:27
+Making the Picked Location"Saveable" 07:22
+Storing Picked Places 02:50
+Updating the Location Screen When theLocation Changes 04:25
+Storing the Address 07:33
+Displaying the "Details" Screen 06:28
+Finishing the "Map" Screen 06:19
+Running the App on iOS 03:05
+Running the App on Android 01:21
+Wrap Up 01:35
+Useful Resources & Links 00:08
+
+🔸 [SECTION 30] [53min] [10 lecture] Building Apps Without Expo [LEGACY] 
+Module Introduction 03:32
+Alternatives to Expo 06:01
+Building Apps with Just the ReactNative CLI 09:26
+Live Reload and RN CLI Apps 00:13
+Important: Using React Native ImagePicker 00:06
+Adding Native Modules to Non-ExpoApps 08:55
+Understanding Expo's "BareWorkflow" 08:35
+Ejecting from Expo's "ManagedWorkflow" 10:59
+When To Use Which? 05:29
+Useful Resources & Links 00:03
+
+🔸 [SECTION 31] [1hr 11min] [11 lecture] Publishing React Native Apps [LEGACY] 
+Module Introduction 00:41
+Deployment Steps 04:31
+Configuring the App &Publishing 08:09
+Configuring Icons & The SplashScreen 09:13
+Working with Offline AssetBundles 03:03
+Using "Over the Air Updates" (OTAUpdates) 07:43
+Building the Apps for Deployment (iOS& Android) 19:07
+Publishing iOS Apps withoutExpo 10:23
+Publishing Android Apps withoutExpo 07:21
+Configuring Android Apps 00:21
+Useful Resources & Links 00:05
+
+🔸 [SECTION 32] [1hr 26min] [15 lecture] Updating to React Navigation 5+[LEGACY] 
+Module Introduction 01:07
+What Changed? 03:55
+Preparing the Project 04:02
+More Information & Updating theProject Dependencies 02:08
+Moving from the "Registry-like" tothe "Component-based" NavigationConfig 10:35
+First Migration Steps 11:37
+Converting More Stack Navigators tothe New Config 06:49
+Migrating the Drawer Navigation 08:12
+Replacing the "Switch" Navigator& Auth Flow 12:50
+Logout & Further Fixes/Adjustments 04:57
+Extracting Screen Params 07:47
+Setting Screen OptionsDynamically 03:02
+Remaining Migration Steps &Roundup 03:02
+A Summary Of All ImportantChanges 05:47
+Useful Resources & Links 00:09
+
+🔸 [SECTION 33] [1hr 29min] [18 lecture] Push Notifications [LEGACY] 
+Module Introduction 01:18
+Understanding Notifications 03:36
+Sending Local Notifications 08:16
+Getting Permissions 07:35
+Controlling How Notifications AreDisplayed 03:36
+Reacting to ForegroundNotifications 04:26
+Reacting to BackgroundNotifications 04:13
+How Push Notifications Work 03:40
+Expo & Push Notifications 06:45
+Getting a Push Token 04:44
+Sending Push Notifications 02:59
+Using Expo's Push Server 04:29
+More on Push Tokens 05:49
+Adding Push Notifications to the ShopApp (1/3) 10:06
+Adding Push Notifications to the ShopApp (2/3) 14:13
+Adding Push Notifications to the ShopApp (3/3) 02:37
+Push Notifications in non-ExpoManaged Apps 00:11
+Module Resources 00:06
+
+🔸 [SECTION 34] [4min] [1 lecture] Course Roundup & Next Steps[LEGACY] 
+Roundup & Next Steps 03:52
+
+🔸 [SECTION 35] [50min] [14 lecture] Bonus: JavaScript Refresher 
+Module Introduction 01:36
+JavaScript - A Summary 02:35
+Project Setup 00:07
+Core Syntax Refresher 04:34
+let & const 02:27
+Arrow Functions 05:17
+Objects: Properties &Methods 03:19
+Arrays & Array Methods 04:16
+Arrays, Objects & ReferenceTypes 02:13
+Spread Operator & RestParameters 06:40
+Destructuring 05:37
+Async Code & Promises 10:28
+Wrap Up 00:50
+Module Resources 00:02
+
+🔸 [SECTION 36] [1hr 6min] [15 lecture] Bonus: React.js Refresher 
+Module Introduction 01:12
+What is React 03:13
+A Starting Project 04:03
+Understanding JSX 05:31
+Understanding Components 02:50
+Working with MultipleComponents 07:04
+Working with Props 06:52
+Rendering Lists of Data 04:30
+Handling Events 07:24
+Parent-Child Communication 04:38
+Managing State 05:54
+More on State 04:20
+User Input & Two-WayBinding 05:52
+Wrap Up 02:11
+Module Resources 00:02
+
+🔸 [SECTION 37] [1min] [1 lecture] Bonus 
+Bonus: More Content! 00:20
+

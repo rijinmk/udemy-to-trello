@@ -1,0 +1,29 @@
+{
+  "name": "udemy-to-trello",
+  "version": "1.0.0",
+  "description": "A tool to convert udemy course into a lesson plan that can be added to trello",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rijinmk/udemy-to-trello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rijinmk/udemy-to-trello/issues"
+  },
+  "homepage": "https://github.com/rijinmk/udemy-to-trello#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "jssoup": "^0.0.15",
+    "puppeteer": "^13.5.2",
+    "x-ray": "^2.3.4"
+  }
+}
